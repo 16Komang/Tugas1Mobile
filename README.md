@@ -1,2 +1,2 @@
 # Tugas1Mobile
-![Screenshot hello_world](images/helloword.png)
+![Screenshot hello_world](images/helloword.jpeg)
